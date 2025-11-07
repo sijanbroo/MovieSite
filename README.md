@@ -1,4 +1,4 @@
-# Movie Browser (project02)
+# Movie Browser (project08)
 
 > A small responsive React application that lets you discover and search movies using The Movie Database (TMDB) API, save favourites to localStorage, and browse results with server-driven pagination. Built with Vite, React 19, Tailwind CSS and Flowbite React components.
 
